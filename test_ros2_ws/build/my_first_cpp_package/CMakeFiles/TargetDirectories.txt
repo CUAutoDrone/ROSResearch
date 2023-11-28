@@ -1,0 +1,9 @@
+/home/whowes/CUAutoDrone/ROSResearch/test_ros2_ws/build/my_first_cpp_package/CMakeFiles/uninstall.dir
+/home/whowes/CUAutoDrone/ROSResearch/test_ros2_ws/build/my_first_cpp_package/CMakeFiles/my_first_cpp_package_uninstall.dir
+/home/whowes/CUAutoDrone/ROSResearch/test_ros2_ws/build/my_first_cpp_package/CMakeFiles/test.dir
+/home/whowes/CUAutoDrone/ROSResearch/test_ros2_ws/build/my_first_cpp_package/CMakeFiles/edit_cache.dir
+/home/whowes/CUAutoDrone/ROSResearch/test_ros2_ws/build/my_first_cpp_package/CMakeFiles/rebuild_cache.dir
+/home/whowes/CUAutoDrone/ROSResearch/test_ros2_ws/build/my_first_cpp_package/CMakeFiles/list_install_components.dir
+/home/whowes/CUAutoDrone/ROSResearch/test_ros2_ws/build/my_first_cpp_package/CMakeFiles/install.dir
+/home/whowes/CUAutoDrone/ROSResearch/test_ros2_ws/build/my_first_cpp_package/CMakeFiles/install/local.dir
+/home/whowes/CUAutoDrone/ROSResearch/test_ros2_ws/build/my_first_cpp_package/CMakeFiles/install/strip.dir
